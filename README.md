@@ -35,6 +35,16 @@ Facilita el análisis: Organiza y visualiza los resultados de la búsqueda para 
 <br>
 <br>
 
+![Pasted image 20241016074346](https://github.com/user-attachments/assets/6ad9de5a-4574-44a8-8973-00e4b7d50ff7)
+
+
+
+---
+<br>
+<br>
+<br>
+<br>
+
 ...
 
 ![regex-1](https://github.com/user-attachments/assets/dc92d608-92f1-4307-b16a-b94d7f15728a)
