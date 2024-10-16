@@ -5,7 +5,7 @@ Regex simplifica la búsqueda de patrones complejos en tus archivos.
 
 ---
 
-## ¡Presentamos Regex: La herramienta definitiva para búsquedas avanzadas en archivos!
+## ¡ Regex_Tool_4_Folders: La herramienta definitiva para búsquedas avanzadas en archivos!
 
 Desarrollada con PyQt5 en el entorno Qt, Regex simplifica la búsqueda de patrones complejos en tus archivos.
 
