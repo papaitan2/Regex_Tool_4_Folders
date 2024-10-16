@@ -29,6 +29,18 @@ Facilita el análisis: Organiza y visualiza los resultados de la búsqueda para 
 ¡Simplifica tus búsquedas y aumenta tu productividad con Regex!
 
 
+
+---
+<br>
+<br>
+<br>
+<br>
+
+
+![Pasted image 20241016074959](https://github.com/user-attachments/assets/afc58eab-8659-483a-9bb6-768d95f0a728)
+
+
+
 ---
 <br>
 <br>
