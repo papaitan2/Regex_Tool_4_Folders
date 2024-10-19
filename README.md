@@ -553,3 +553,24 @@ if __name__ == "__main__":
 
 
 
+
+---
+<br>
+<br>
+<br>
+<br>
+link to exe file:
+
+https://github.com/papaitan2/Regex_Tool_4_Folders/blob/main/regex_tool.part1.rar
+https://github.com/papaitan2/Regex_Tool_4_Folders/blob/main/regex_tool.part2.rar
+---
+<br>
+<br>
+<br>
+<br>
+
+---
+<br>
+<br>
+<br>
+<br>
